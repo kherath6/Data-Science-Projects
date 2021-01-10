@@ -1,0 +1,1 @@
+This folder contains Data Science and Machine Learning projects that I have done in MIS 776 Business Intelligence class. 
