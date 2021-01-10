@@ -1,0 +1,9 @@
+- This folder contains the notebooks and files of final group project for MIS 776 - Business Intelligence class. 
+- This is a group project, hence the code and the files belong to all group members. 
+- Group memebers: 
+    Kemil Herath (me)
+    Dannica Concepcion
+    Kelsey Manglicmot
+    Ryan Kelly
+    Xiangyu(Shine) Lou
+  
